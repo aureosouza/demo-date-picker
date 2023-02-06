@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "date-picker-example",
+    "slug": "date-picker-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "date-picker-example"
+}
